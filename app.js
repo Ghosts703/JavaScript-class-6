@@ -1,4 +1,3 @@
-
 // --> Chapter 15 --> Arrays
 
 //-----------------------------------------------------------------------------------------------------------------------------
@@ -124,26 +123,35 @@
 //-----------------------------------------------------------------------------------------------------------------------------
 
 //-----------------------------------------------------------------------------------------------------------------------------
-var arr5 = ["True", "false", 20, "Ali", undefined, "hello", 12.2, false];
+// var arr5 = ["True", "false", 20, "Ali", undefined, "hello", 12.2, false];
 
-arr5.pop();
-arr5.push("0");
-arr5.shift();
-arr5.pop();
-arr5.pop();
-arr5.unshift(arr5[2],'updated');
-arr5.splice(1)
-arr5.push('new')
+// arr5.pop();
+// arr5.push("0");
+// arr5.shift();
+// arr5.pop();
+// arr5.pop();
+// arr5.unshift(arr5[2],'updated');
+// arr5.splice(1)
+// arr5.push('new')
 
-//true,false,20,ali,undefined,hello,12.2
-//true,false,20,ali,undefined,hello,12.2,0
-//false,20,ali,undefined,hello,12.2,0
-//false,20,ali,undefined,hello,12.2
-//false,20,ali,undefined,hello
-//ali,UPDATED,undefined,hello
-//ali,
-//ali,new
+// //true,false,20,ali,undefined,hello,12.2
+// //true,false,20,ali,undefined,hello,12.2,0
+// //false,20,ali,undefined,hello,12.2,0
+// //false,20,ali,undefined,hello,12.2
+// //false,20,ali,undefined,hello
+// //ali,UPDATED,undefined,hello
+// //ali,
+// //ali,new
 
-document.write(arr5);
+// document.write(arr5);
+//-----------------------------------------------------------------------------------------------------------------------------
 
 //-----------------------------------------------------------------------------------------------------------------------------
+// var arr6 = ["True", "false", 20, "Ali", undefined, "hello", 12.2, false];
+
+// var arr7 = arr6.slice(0, 3);
+// document.write(arr7);
+//-----------------------------------------------------------------------------------------------------------------------------
+
+// --
+
