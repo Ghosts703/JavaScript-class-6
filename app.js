@@ -3,7 +3,7 @@
 //-----------------------------------------------------------------------------------------------------------------------------
 // var num1 = 3;
 // var num2 = 4;
-// // array is a reserved word. Array is a collection of data. Initial index of array is always 0 in JS.
+// // array is a reserved word. Array is a collection of data. Initial index of array is always 0 in JS. It's not necessary in JS that array must contain homogenous data meaning data with same datatype.
 // var arr = [
 //   "01",
 //   "Saad",
